@@ -8,7 +8,8 @@
 * 备注：
   * 此处路由器可以理解为work 1的agent(np网关)。
   * DGW可以理解为虚拟网关。
-
+ 
+![1](https://github.com/nieting1997/work_2/assets/90097659/6a1f6964-0684-4707-aa81-784878f883a1)
 * 本人负责工作：
   * 使用api-first原则，先对业务建模，定义对应api。
   * 使用公司框架生成相对应的类与server/client。
